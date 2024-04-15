@@ -2,15 +2,16 @@ import { logger } from "../../services/logger.service.js"
 import { orderService } from "./order.service.js"
 
 export async function getOrdersById(req, res) {
-    console.log('req.query.params:', req.query.params)
     try {
-        const filter = JSON.parse(req.query.params)
-        console.log('filter:', filter)
+        const filter = req.query
+        // console.log('filter:', filter)
         let orders
-        if (filter.buyer) {
+        if (filter.buyer === 'true') {
             orders = await orderService.buyerQuery()
+            console.log('getting buyer')
         } else {
             orders = await orderService.sellerQuery()
+            console.log('getting seller')
         }
         res.json(orders)
     } catch (err) {
@@ -36,9 +37,12 @@ export async function addOrder(req, res) {
 
 export async function updateStatus(req, res) {
     try {
+        // console.log('req.body:', req.body)
+        // console.log('req.params:', req.params.id)
         const gigId = req.params.id
-        const status = req.body
-        const updatedOrder = await orderService.updateStatus(gigId, status.status)
+        const status = req.body.value
+        console.log('status:', status)
+        const updatedOrder = await orderService.updateStatus(gigId, status)
         res.json(updatedOrder)
     } catch (err) {
         logger.error("Failed to update order status", err)
