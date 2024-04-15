@@ -4,7 +4,7 @@ import { orderService } from "./order.service.js"
 export async function getOrdersById(req, res) {
     try {
         const filter = req.query
-        console.log('filter:', filter)
+        // console.log('filter:', filter)
         let orders
         if (filter.buyer === 'true') {
             orders = await orderService.buyerQuery()
@@ -37,9 +37,12 @@ export async function addOrder(req, res) {
 
 export async function updateStatus(req, res) {
     try {
+        // console.log('req.body:', req.body)
+        // console.log('req.params:', req.params.id)
         const gigId = req.params.id
-        const status = req.body
-        const updatedOrder = await orderService.updateStatus(gigId, status.status)
+        const status = req.body.value
+        console.log('status:', status)
+        const updatedOrder = await orderService.updateStatus(gigId, status)
         res.json(updatedOrder)
     } catch (err) {
         logger.error("Failed to update order status", err)

@@ -28,7 +28,7 @@ export async function buyerQuery() {
 
         const orderCollection = await dbService.getCollection('orders')
         const orders = await orderCollection.find({'buyer._id': id}).toArray()
-        console.log('31 orders:', orders)
+        // console.log('31 orders:', orders)
 
         return orders
     } catch (err) {

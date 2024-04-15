@@ -8,7 +8,7 @@ export async function getGigs(req, res) {
         console.log('req.query.params:', req.query)
         const { filterBy } = req.query
 
-        console.log('filter by from controller', filterBy);
+        // console.log('filter by from controller', filterBy);
         // const sortBy = req.query.sortBy || 'recommended'
         const gigs = await gigService.query(filterBy)
         res.json(gigs)
