@@ -15,7 +15,7 @@ export const userService = {
 async function query(filterBy = {}) {
     const criteria = _buildCriteria(filterBy)
     try {
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         var users = await collection.find(criteria).toArray()
         users = users.map(user => {
             delete user.password
@@ -33,7 +33,7 @@ async function query(filterBy = {}) {
 
 async function getById(userId) {
     try {
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         const user = await collection.findOne({ _id: new ObjectId(userId) })
         delete user.password
 
@@ -48,7 +48,7 @@ async function getById(userId) {
 
 async function getByUsername(username) {
     try {
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         const user = await collection.findOne({ username })
         return user
     } catch (err) {
@@ -59,7 +59,7 @@ async function getByUsername(username) {
 
 async function remove(userId) {
     try {
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         await collection.deleteOne({ _id: new ObjectId(userId) })
     } catch (err) {
         logger.error(`cannot remove user ${userId}`, err)
@@ -74,7 +74,7 @@ async function update(user) {
             _id: new ObjectId(user._id), // needed for the returnd obj
             fullname: user.fullname,
         }
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
         return userToSave
     } catch (err) {
@@ -92,7 +92,7 @@ async function add(user) {
             fullname: user.fullname,
             imgUrl: user.imgUrl,
         }
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
         await collection.insertOne(userToAdd)
         return userToAdd
     } catch (err) {
