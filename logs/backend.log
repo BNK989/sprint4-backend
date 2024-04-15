@@ -1,0 +1,65 @@
+15.4.2024, 7:57:57 - INFO - Server is running on port: 3030 
+15.4.2024, 8:24:34 - INFO - Sample Logger Middleware 
+15.4.2024, 8:24:34 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:24:34 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:24:36 - INFO - Sample Logger Middleware 
+15.4.2024, 8:24:36 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:24:36 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:24:36 - INFO - Sample Logger Middleware 
+15.4.2024, 8:24:36 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:24:36 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:25:51 - INFO - Sample Logger Middleware 
+15.4.2024, 8:25:51 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:25:51 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:26:00 - INFO - Sample Logger Middleware 
+15.4.2024, 8:26:00 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:26:00 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:26:01 - INFO - Sample Logger Middleware 
+15.4.2024, 8:26:01 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:26:01 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:26:13 - INFO - Sample Logger Middleware 
+15.4.2024, 8:26:13 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:26:13 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:27:21 - INFO - Sample Logger Middleware 
+15.4.2024, 8:27:21 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:27:21 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:27:22 - INFO - Sample Logger Middleware 
+15.4.2024, 8:27:22 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:27:22 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:27:23 - INFO - Sample Logger Middleware 
+15.4.2024, 8:27:23 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:27:23 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:27:24 - INFO - Sample Logger Middleware 
+15.4.2024, 8:27:24 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:27:24 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:27:43 - INFO - Sample Logger Middleware 
+15.4.2024, 8:27:43 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:27:43 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:27:44 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:27:44 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:27:44 - INFO - Sample Logger Middleware 
+15.4.2024, 8:27:51 - INFO - Sample Logger Middleware 
+15.4.2024, 8:27:51 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:27:51 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:27:52 - INFO - Sample Logger Middleware 
+15.4.2024, 8:27:52 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:27:52 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:32:02 - INFO - Sample Logger Middleware 
+15.4.2024, 8:32:02 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:32:02 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:32:03 - INFO - Sample Logger Middleware 
+15.4.2024, 8:32:03 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:32:03 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:39:03 - INFO - Server is running on port: 3030 
+15.4.2024, 8:39:07 - INFO - Server is running on port: 3030 
+15.4.2024, 8:39:14 - INFO - Sample Logger Middleware 
+15.4.2024, 8:39:14 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:39:14 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:39:14 - INFO - Sample Logger Middleware 
+15.4.2024, 8:39:14 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:39:14 - ERROR - Failed to get gigs | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+15.4.2024, 8:40:03 - INFO - Server is running on port: 3030 
+15.4.2024, 8:43:25 - INFO - Server is running on port: 3030 
+15.4.2024, 8:43:54 - INFO - Server is running on port: 3030 
+15.4.2024, 8:43:59 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 8:44:01 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
