@@ -9,25 +9,11 @@ export async function sellerQuery() {
     try {
         const { loggedinUser } = asyncLocalStorage.getStore()
         const id = loggedinUser._id
-        console.log('id:', id)
 
         const OrdersCollection = await dbService.getCollection('orders')
-        console.log(111111)
         // console.log('collection:', OrdersCollection)
         const orders = await OrdersCollection.find({"seller._id": id}).toArray()
-        console.log('orders', orders)
-        // const orders = await collection.aggregate([
-            
-        // ]).toArray()
-        // const orders = await collection.aggregate([
-        //     { $match: { "seller._id": id } },
-        //     { $unwind: "$seller" },
-        //     {
-        //         $match: {
-        //             "seller._id": id
-        //         }
-        //     }
-        // ]).toArray()
+
         return orders
     } catch (err) {
         logger.error('Cannot get seller`s Orders ', err)
@@ -40,16 +26,9 @@ export async function buyerQuery() {
         const { loggedinUser } = asyncLocalStorage.getStore()
         const id = loggedinUser._id
 
-        const collection = await dbService.getCollection('orders')
-        const orders = await collection.aggregate([
-            { $match: { "buyer._id": id } },
-            { $unwind: "$buyer" },
-            {
-                $match: {
-                    "buyer._id": id
-                }
-            }
-        ]).toArray()
+        const orderCollection = await dbService.getCollection('orders')
+        const orders = await orderCollection.find({'buyer._id': id}).toArray()
+        console.log('31 orders:', orders)
 
         return orders
     } catch (err) {

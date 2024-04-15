@@ -8,10 +8,10 @@ export async function getOrdersById(req, res) {
         let orders
         if (filter.buyer === 'true') {
             orders = await orderService.buyerQuery()
-            console.log('Hey11')
+            console.log('getting buyer')
         } else {
             orders = await orderService.sellerQuery()
-            console.log('hey14')
+            console.log('getting seller')
         }
         res.json(orders)
     } catch (err) {

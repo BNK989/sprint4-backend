@@ -303,3 +303,17 @@
 15.4.2024, 14:59:27 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
 15.4.2024, 14:59:28 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
 15.4.2024, 14:59:46 - DEBUG - Getting Gigs: | {"title":"lux","price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 15:00:58 - INFO - Server is running on port: 3030 
+15.4.2024, 15:01:43 - INFO - Server is running on port: 3030 
+15.4.2024, 15:01:59 - INFO - Server is running on port: 3030 
+15.4.2024, 15:02:11 - INFO - Server is running on port: 3030 
+15.4.2024, 15:02:20 - INFO - Server is running on port: 3030 
+15.4.2024, 15:02:48 - INFO - Server is running on port: 3030 
+15.4.2024, 15:03:47 - INFO - Server is running on port: 3030 
+15.4.2024, 15:10:57 - DEBUG - auth.service - login with username: puki 
+15.4.2024, 15:10:59 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"aviya","username":"puki","ordersCount":1,"from":"israel","Membersince":"Apr 2023","imgUrl":"https://www.santander.com/content/dam/santander-com/es/stories/cabecera/2021/bancaresponsable/im-storie-liderazgo-femenino-una-apuesta-por-un-futuro-mas-igualitario-movil.jpg.transform/rendition-sm/image.jpg"} 
+15.4.2024, 15:14:06 - INFO - Server is running on port: 3030 
+15.4.2024, 15:16:26 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 15:16:45 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 15:16:46 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 15:17:42 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
