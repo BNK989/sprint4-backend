@@ -375,3 +375,64 @@
 15.4.2024, 16:18:57 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
 15.4.2024, 16:19:29 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
 15.4.2024, 16:20:11 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 16:23:47 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 16:23:48 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 16:24:40 - DEBUG - auth.service - signup with username: bnk, fullname: Ben Klinovsky 
+15.4.2024, 16:24:40 - DEBUG - auth.route - new account created: {"username":"bnk","password":"$2b$10$GEk6jHRO1XtfLkV5pFIS0OeU0OlXK2Vb20TVaEJy.EG3vcK5QImhy","fullname":"Ben Klinovsky","imgUrl":"https://res.cloudinary.com/dqwoykxjx/image/upload/v1713187478/smkyyx00dxj1w5qia8lh.png","_id":"661d2a988bfc979f8c26c745"} 
+15.4.2024, 16:24:40 - DEBUG - auth.service - login with username: bnk 
+15.4.2024, 16:24:40 - INFO - User signup: | {"_id":"661d2a988bfc979f8c26c745","username":"bnk","fullname":"Ben Klinovsky","imgUrl":"https://res.cloudinary.com/dqwoykxjx/image/upload/v1713187478/smkyyx00dxj1w5qia8lh.png"} 
+15.4.2024, 16:25:30 - DEBUG - Getting Gigs: | {} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:26:41 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:26:42 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:29:36 - DEBUG - Getting Gigs: | {} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:48:28 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:49:03 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:49:05 - DEBUG - Getting Gigs: | {"userId":"661d2a988bfc979f8c26c745"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:50:05 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:50:07 - DEBUG - Getting Gigs: | {"userId":"661d2a988bfc979f8c26c745"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:50:23 - DEBUG - Getting Gigs: | {"userId":"661d2a988bfc979f8c26c745"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:50:24 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:50:25 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:51:52 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 16:51:53 - DEBUG - Getting Gigs: | {"userId":"661d2a988bfc979f8c26c745"} (userId: 661d2a988bfc979f8c26c745)
+15.4.2024, 17:00:11 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+15.4.2024, 17:00:11 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+15.4.2024, 17:00:18 - DEBUG - auth.service - login with username: meni 
+15.4.2024, 17:00:19 - INFO - User login:  | {"_id":"661cc2723356f2ac97fd2ad2","fullname":"meni ko","username":"meni","ordersCount":5,"from":"israel","Membersince":"Apr 2023","imgUrl":"https://content.latest-hairstyles.com/wp-content/uploads/best-long-hairstyles-for-men.jpg"} 
+15.4.2024, 17:00:25 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:00:40 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:00:41 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:00:57 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:01:31 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:01:33 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:01:53 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:02:16 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:49:13 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:50:22 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:57:38 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:57:38 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 17:59:32 - INFO - Server is running on port: 3030 
+15.4.2024, 17:59:39 - INFO - Server is running on port: 3030 
+15.4.2024, 17:59:46 - INFO - Server is running on port: 3030 
+15.4.2024, 17:59:56 - INFO - Server is running on port: 3030 
+15.4.2024, 18:00:25 - INFO - Server is running on port: 3030 
+15.4.2024, 18:01:13 - INFO - Server is running on port: 3030 
+15.4.2024, 18:01:22 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 18:16:05 - INFO - Server is running on port: 3030 
+15.4.2024, 18:16:08 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 18:18:46 - INFO - Server is running on port: 3030 
+15.4.2024, 18:19:00 - INFO - Server is running on port: 3030 
+15.4.2024, 18:19:16 - INFO - Server is running on port: 3030 
+15.4.2024, 18:19:49 - INFO - Server is running on port: 3030 
+15.4.2024, 18:40:27 - INFO - Server is running on port: 3030 
+15.4.2024, 18:41:52 - INFO - Server is running on port: 3030 
+15.4.2024, 18:42:00 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 18:42:01 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 18:42:30 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 18:42:32 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 18:43:01 - INFO - Server is running on port: 3030 
+15.4.2024, 18:43:30 - INFO - Server is running on port: 3030 
+15.4.2024, 18:43:43 - INFO - Server is running on port: 3030 
+15.4.2024, 18:43:55 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 18:43:55 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 18:44:08 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
