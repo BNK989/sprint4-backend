@@ -2,15 +2,16 @@ import { logger } from "../../services/logger.service.js"
 import { orderService } from "./order.service.js"
 
 export async function getOrdersById(req, res) {
-    console.log('req.query.params:', req.query.params)
     try {
-        const filter = JSON.parse(req.query.params)
+        const filter = req.query
         console.log('filter:', filter)
         let orders
-        if (filter.buyer) {
+        if (filter.buyer === 'true') {
             orders = await orderService.buyerQuery()
+            console.log('Hey11')
         } else {
             orders = await orderService.sellerQuery()
+            console.log('hey14')
         }
         res.json(orders)
     } catch (err) {

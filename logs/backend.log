@@ -65,3 +65,241 @@
 15.4.2024, 8:44:01 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
 15.4.2024, 8:56:08 - INFO - Server is running on port: 3030 
 15.4.2024, 8:56:17 - INFO - Server is running on port: 3030 
+15.4.2024, 9:57:57 - INFO - Server is running on port: 3030 
+15.4.2024, 9:58:05 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 9:58:06 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 9:58:30 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 9:58:31 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:00:18 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:00:19 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:00:40 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:00:41 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:08:12 - INFO - Server is running on port: 3030 
+15.4.2024, 10:08:41 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:08:43 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:17:56 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:17:56 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:35:19 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:35:54 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:35:56 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:37:08 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:37:19 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:37:21 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:37:54 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:38:11 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:38:13 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:38:27 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:38:29 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:39:12 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:39:41 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:39:42 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:44:22 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:44:49 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:45:10 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:45:37 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 10:53:39 - INFO - Server is running on port: 3030 
+15.4.2024, 10:57:37 - INFO - Server is running on port: 3030 
+15.4.2024, 11:01:14 - DEBUG - auth.service - login with username: puki 
+15.4.2024, 11:01:15 - ERROR - Failed to Login Invalid username or password 
+15.4.2024, 11:01:25 - DEBUG - auth.service - login with username: puki 
+15.4.2024, 11:01:25 - ERROR - Failed to Login Invalid username or password 
+15.4.2024, 11:01:28 - DEBUG - auth.service - login with username: puki 
+15.4.2024, 11:01:29 - ERROR - Failed to Login Invalid username or password 
+15.4.2024, 11:01:29 - DEBUG - auth.service - login with username: puki 
+15.4.2024, 11:01:30 - ERROR - Failed to Login Invalid username or password 
+15.4.2024, 11:01:30 - DEBUG - auth.service - login with username: puki 
+15.4.2024, 11:01:30 - ERROR - Failed to Login Invalid username or password 
+15.4.2024, 11:01:54 - INFO - Server is running on port: 3030 
+15.4.2024, 11:02:03 - INFO - Server is running on port: 3030 
+15.4.2024, 11:02:15 - INFO - Server is running on port: 3030 
+15.4.2024, 11:07:48 - INFO - Server is running on port: 3030 
+15.4.2024, 11:07:55 - DEBUG - auth.service - login with username: puki 
+15.4.2024, 11:07:57 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"aviya","username":"puki","ordersCount":1,"from":"israel","Membersince":"Apr 2023","imgUrl":"https://www.santander.com/content/dam/santander-com/es/stories/cabecera/2021/bancaresponsable/im-storie-liderazgo-femenino-una-apuesta-por-un-futuro-mas-igualitario-movil.jpg.transform/rendition-sm/image.jpg"} 
+15.4.2024, 11:08:59 - DEBUG - auth.service - signup with username: Levi, fullname: Levi Levi 
+15.4.2024, 11:08:59 - DEBUG - auth.route - new account created: {"username":"Levi","password":"$2b$10$3Pcd24xYuINNuPtkSJVjmu.6N3KIngQ/wz0OEsRmLKzEyO/.vR/QG","fullname":"Levi Levi","_id":"661ce09b38452a7dc1f16227"} 
+15.4.2024, 11:08:59 - DEBUG - auth.service - login with username: Levi 
+15.4.2024, 11:08:59 - INFO - User signup: | {"_id":"661ce09b38452a7dc1f16227","username":"Levi","fullname":"Levi Levi","imgUrl":null} 
+15.4.2024, 11:13:06 - DEBUG - auth.service - signup with username: Levi2, fullname: Levi Levi2 
+15.4.2024, 11:13:07 - DEBUG - auth.route - new account created: {"username":"Levi2","password":"$2b$10$709MKyAYUmw3H/z0k2AhOeZSGtReFuL.KfStd0JaKcXAGs4gkNzXW","fullname":"Levi Levi2","imgUrl":"https://source.unsplash.com/random/50%C3%9750","_id":"661ce19338452a7dc1f16228"} 
+15.4.2024, 11:13:07 - DEBUG - auth.service - login with username: Levi2 
+15.4.2024, 11:13:07 - INFO - User signup: | {"_id":"661ce19338452a7dc1f16228","username":"Levi2","fullname":"Levi Levi2","imgUrl":"https://source.unsplash.com/random/50%C3%9750"} 
+15.4.2024, 11:15:18 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 11:15:19 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} 
+15.4.2024, 11:15:35 - ERROR - Failed to get users | ReferenceError: filterBy is not defined 
+15.4.2024, 11:18:37 - INFO - Server is running on port: 3030 
+15.4.2024, 11:19:18 - INFO - Server is running on port: 3030 
+15.4.2024, 11:19:34 - ERROR - Failed to get users | ReferenceError: filterBy is not defined 
+15.4.2024, 11:21:01 - ERROR - Failed to get users | ReferenceError: filterBy is not defined 
+15.4.2024, 11:21:39 - INFO - Server is running on port: 3030 
+15.4.2024, 11:21:53 - INFO - Server is running on port: 3030 
+15.4.2024, 11:22:22 - DEBUG - auth.service - login with username: meni 
+15.4.2024, 11:22:22 - INFO - User login:  | {"_id":"661cc2723356f2ac97fd2ad2","fullname":"meni ko","username":"meni","ordersCount":5,"from":"israel","Membersince":"Apr 2023","imgUrl":"https://content.latest-hairstyles.com/wp-content/uploads/best-long-hairstyles-for-men.jpg"} 
+15.4.2024, 12:04:18 - DEBUG - auth.service - login with username: puki 
+15.4.2024, 12:04:19 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"aviya","username":"puki","ordersCount":1,"from":"israel","Membersince":"Apr 2023","imgUrl":"https://www.santander.com/content/dam/santander-com/es/stories/cabecera/2021/bancaresponsable/im-storie-liderazgo-femenino-una-apuesta-por-un-futuro-mas-igualitario-movil.jpg.transform/rendition-sm/image.jpg"} 
+15.4.2024, 12:04:32 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:13:12 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:13:51 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:14:05 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:14:55 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:15:28 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:17:47 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:17:48 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:18:44 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:18:45 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:19:47 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:19:56 - DEBUG - auth.service - login with username: puki (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:19:57 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"aviya","username":"puki","ordersCount":1,"from":"israel","Membersince":"Apr 2023","imgUrl":"https://www.santander.com/content/dam/santander-com/es/stories/cabecera/2021/bancaresponsable/im-storie-liderazgo-femenino-una-apuesta-por-un-futuro-mas-igualitario-movil.jpg.transform/rendition-sm/image.jpg"} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:20:47 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:21:53 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:22:01 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:22:02 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:32:11 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:32:17 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:32:45 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:40:39 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:43:29 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:44:29 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:44:41 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:44:52 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:44:55 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:45:04 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:46:18 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:46:28 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:46:58 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:47:20 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:47:42 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:47:47 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:48:51 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:48:54 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:49:03 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:49:11 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:49:16 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:49:21 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:49:40 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:50:59 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:51:01 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:57:53 - DEBUG - Getting Gigs: | {} (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:58:46 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2573356f2ac97fd2ad0)
+15.4.2024, 12:59:52 - DEBUG - auth.service - login with username: meni 
+15.4.2024, 12:59:53 - INFO - User login:  | {"_id":"661cc2723356f2ac97fd2ad2","fullname":"meni ko","username":"meni","ordersCount":5,"from":"israel","Membersince":"Apr 2023","imgUrl":"https://content.latest-hairstyles.com/wp-content/uploads/best-long-hairstyles-for-men.jpg"} 
+15.4.2024, 12:59:58 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 12:59:59 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:00:11 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:00:12 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:00:28 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:00:29 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:02:24 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:08:03 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:08:05 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:09:21 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:09:22 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:09:33 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:09:34 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:10:02 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:10:03 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:10:29 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:12:52 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:12:56 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:13:26 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:13:27 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:13:39 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:13:44 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:13:53 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:13:58 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:14:02 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:14:16 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:14:17 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:16:28 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:16:34 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:16:39 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:16:44 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:18:03 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:18:04 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:18:05 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:26:23 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:26:25 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:26:28 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:26:30 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:26:57 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:27:05 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:27:23 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:27:39 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:27:46 - ERROR - Failed to get orders | SyntaxError: "undefined" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:34:50 - INFO - Server is running on port: 3030 
+15.4.2024, 13:35:01 - INFO - Server is running on port: 3030 
+15.4.2024, 13:35:18 - ERROR - Failed to get orders | SyntaxError: "[object Object]" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:35:18 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:35:19 - ERROR - Failed to get orders | SyntaxError: "[object Object]" is not valid JSON (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 13:35:47 - INFO - Server is running on port: 3030 
+15.4.2024, 13:35:56 - INFO - Server is running on port: 3030 
+15.4.2024, 13:37:09 - DEBUG - auth.service - login with username: Levi 
+15.4.2024, 13:37:10 - INFO - User login:  | {"_id":"661ce09b38452a7dc1f16227","username":"Levi","fullname":"Levi Levi","imgUrl":null} 
+15.4.2024, 13:37:16 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:14:24 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:14:34 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:14:49 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:17:53 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:18:14 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:18:33 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:20:36 - INFO - Server is running on port: 3030 
+15.4.2024, 14:20:43 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:20:59 - INFO - Server is running on port: 3030 
+15.4.2024, 14:21:09 - INFO - Server is running on port: 3030 
+15.4.2024, 14:21:21 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:22:36 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:23:43 - INFO - Server is running on port: 3030 
+15.4.2024, 14:23:54 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:24:46 - INFO - Server is running on port: 3030 
+15.4.2024, 14:24:55 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:25:30 - INFO - Server is running on port: 3030 
+15.4.2024, 14:25:40 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:27:17 - INFO - Server is running on port: 3030 
+15.4.2024, 14:27:28 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:37:46 - INFO - Server is running on port: 3030 
+15.4.2024, 14:38:03 - INFO - Server is running on port: 3030 
+15.4.2024, 14:39:39 - INFO - Server is running on port: 3030 
+15.4.2024, 14:39:43 - INFO - Server is running on port: 3030 
+15.4.2024, 14:40:20 - INFO - Server is running on port: 3030 
+15.4.2024, 14:40:30 - INFO - Server is running on port: 3030 
+15.4.2024, 14:40:36 - INFO - Server is running on port: 3030 
+15.4.2024, 14:40:42 - INFO - Server is running on port: 3030 
+15.4.2024, 14:42:12 - ERROR - Cannot get seller`s Orders  | ReferenceError: collection is not defined (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:42:12 - ERROR - Failed to get orders | ReferenceError: collection is not defined (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:42:16 - ERROR - Cannot get seller`s Orders  | ReferenceError: collection is not defined (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:42:17 - ERROR - Failed to get orders | ReferenceError: collection is not defined (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:42:18 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:43:04 - INFO - Server is running on port: 3030 
+15.4.2024, 14:43:15 - INFO - Server is running on port: 3030 
+15.4.2024, 14:43:34 - INFO - Server is running on port: 3030 
+15.4.2024, 14:45:09 - INFO - Server is running on port: 3030 
+15.4.2024, 14:45:22 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:45:24 - ERROR - Cannot get seller`s Orders  | TypeError: OrdersCollection.toArray is not a function (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:45:24 - ERROR - Failed to get orders | TypeError: OrdersCollection.toArray is not a function (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:45:53 - ERROR - Cannot get seller`s Orders  | TypeError: OrdersCollection.toArray is not a function (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:45:53 - ERROR - Failed to get orders | TypeError: OrdersCollection.toArray is not a function (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:46:32 - INFO - Server is running on port: 3030 
+15.4.2024, 14:46:43 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:46:46 - ERROR - Cannot get seller`s Orders  | TypeError: OrdersCollection.toArray is not a function (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:46:46 - ERROR - Failed to get orders | TypeError: OrdersCollection.toArray is not a function (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:47:48 - INFO - Server is running on port: 3030 
+15.4.2024, 14:47:56 - INFO - Server is running on port: 3030 
+15.4.2024, 14:48:23 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:49:28 - INFO - Server is running on port: 3030 
+15.4.2024, 14:49:33 - INFO - Server is running on port: 3030 
+15.4.2024, 14:49:48 - INFO - Server is running on port: 3030 
+15.4.2024, 14:51:57 - INFO - Server is running on port: 3030 
+15.4.2024, 14:52:06 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:53:07 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:54:07 - INFO - Server is running on port: 3030 
+15.4.2024, 14:54:14 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:55:51 - INFO - Server is running on port: 3030 
+15.4.2024, 14:55:53 - DEBUG - Getting Gigs: | {} (userId: 661ce09b38452a7dc1f16227)
+15.4.2024, 14:57:02 - DEBUG - auth.service - login with username: meni 
+15.4.2024, 14:57:02 - INFO - User login:  | {"_id":"661cc2723356f2ac97fd2ad2","fullname":"meni ko","username":"meni","ordersCount":5,"from":"israel","Membersince":"Apr 2023","imgUrl":"https://content.latest-hairstyles.com/wp-content/uploads/best-long-hairstyles-for-men.jpg"} 
+15.4.2024, 14:57:11 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 14:57:46 - INFO - Server is running on port: 3030 
+15.4.2024, 14:57:48 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 14:59:00 - DEBUG - Getting Gigs: | {} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 14:59:27 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 14:59:28 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)
+15.4.2024, 14:59:46 - DEBUG - Getting Gigs: | {"title":"lux","price":"0","creteAT":"","daysToMake":"0"} (userId: 661cc2723356f2ac97fd2ad2)

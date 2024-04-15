@@ -39,7 +39,7 @@ async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice:
 
         console.log('criteria from service:', criteria)
 
-        const collection = await dbService.getCollection('gig')
+        const collection = await dbService.getCollection('gigs')
         const gigs = await collection.find(criteria).toArray()
         if (sortBy === 'recommended') {
             gigs.sort((gig1, gig2) => {
@@ -61,7 +61,7 @@ async function query(filterBy = { txt: '', category: '', minPrice: '', maxPrice:
 
 async function getById(gigId) {
     try {
-        const collection = await dbService.getCollection('gig')
+        const collection = await dbService.getCollection('gigs')
         const gig = collection.findOne({ _id: new ObjectId(gigId) })
         return gig
     } catch (err) {
@@ -72,7 +72,7 @@ async function getById(gigId) {
 
 async function remove(gigId) {
     try {
-        const collection = await dbService.getCollection('gig')
+        const collection = await dbService.getCollection('gigs')
         await collection.deleteOne({ _id: new ObjectId(gigId) })
         return gigId
     } catch (err) {
@@ -83,7 +83,7 @@ async function remove(gigId) {
 
 async function add(gig) {
     try {
-        const collection = await dbService.getCollection('gig')
+        const collection = await dbService.getCollection('gigs')
         await collection.insertOne(gig)
         return gig
     } catch (err) {
@@ -98,7 +98,7 @@ async function update(gig) {
             title: gig.title,
             price: gig.price
         }
-        const collection = await dbService.getCollection('gig')
+        const collection = await dbService.getCollection('gigs')
         await collection.updateOne({ _id: new ObjectId(gig._id) }, { $set: gigToSave })
         return gig
     } catch (err) {
@@ -110,7 +110,7 @@ async function update(gig) {
 async function addGigReview(gigId, review) {
     try {
         review.id = utilService.makeId()
-        const collection = await dbService.getCollection('gig')
+        const collection = await dbService.getCollection('gigs')
         await collection.updateOne({ _id: new ObjectId(gigId) }, { $push: { reviews: review } })
         return review
     } catch (err) {
@@ -121,7 +121,7 @@ async function addGigReview(gigId, review) {
 
 async function removeGigReview(gigId, reviewId) {
     try {
-        const collection = await dbService.getCollection('gig')
+        const collection = await dbService.getCollection('gigs')
         await collection.updateOne({ _id: new ObjectId(gigId) }, { $pull: { reviews: { id: reviewId } } })
         return reviewId
     } catch (err) {
