@@ -637,3 +637,25 @@
 16.4.2024, 9:43:47 - INFO - Server is running on port: 3030 
 16.4.2024, 9:43:50 - INFO - Server is running on port: 3030 
 16.4.2024, 9:44:09 - DEBUG - Getting Gigs: | {"title":"pinup","price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+16.4.2024, 17:09:58 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 17:09:58 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 17:09:58 - INFO - New connected socket [id: 7EQVbXANPlKJ1h_DAAAI] 
+16.4.2024, 17:09:59 - INFO - New connected socket [id: Wx-Jz85icJFUgoxNAAAJ] 
+16.4.2024, 17:09:59 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: 7EQVbXANPlKJ1h_DAAAI] 
+16.4.2024, 17:09:59 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+16.4.2024, 17:09:59 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: Wx-Jz85icJFUgoxNAAAJ] 
+16.4.2024, 17:09:59 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+16.4.2024, 17:09:59 - DEBUG - Getting Gigs: | {"userId":"661cc2573356f2ac97fd2ad0"} (userId: 661cc2573356f2ac97fd2ad0)
+16.4.2024, 17:09:59 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+16.4.2024, 17:10:01 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+16.4.2024, 17:11:48 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 17:11:50 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 17:11:56 - INFO - New connected socket [id: WbVB2B2pGOw-Wrh6AAAM] 
+16.4.2024, 17:11:56 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+16.4.2024, 17:11:56 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: WbVB2B2pGOw-Wrh6AAAM] 
+16.4.2024, 17:11:57 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+16.4.2024, 17:11:57 - INFO - New connected socket [id: PLW_lgR9y8_EF5wlAAAN] 
+16.4.2024, 17:11:57 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: PLW_lgR9y8_EF5wlAAAN] 
+16.4.2024, 17:11:57 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+16.4.2024, 17:11:57 - DEBUG - Getting Gigs: | {"userId":"661cc2573356f2ac97fd2ad0"} (userId: 661cc2573356f2ac97fd2ad0)
+16.4.2024, 17:11:57 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)

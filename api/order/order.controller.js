@@ -1,4 +1,6 @@
+import { asyncLocalStorage } from "../../services/als.service.js"
 import { logger } from "../../services/logger.service.js"
+import { socketService } from "../../services/socket.service.js"
 import { orderService } from "./order.service.js"
 
 export async function getOrdersById(req, res) {
@@ -21,14 +23,14 @@ export async function getOrdersById(req, res) {
 }
 
 export async function addOrder(req, res) {
-    // const { loggedinUser } = req
-    // console.log('loggedinuser from controller',loggedinUser);
+    const { loggedinUser } = asyncLocalStorage.getStore()
     try {
         const order = req.body
-        // order.buyerBack = loggedinUser
         const addedOrder = await orderService.add(order)
+        if (addedOrder){
+            socketService.emitTo({type: 'add-order', data:addedOrder})
+        }
         res.json(addedOrder)
-        console.log('addedOrder:', addedOrder)
     } catch (err) {
         logger.error("order.controller: Failed to add orders", err)
         res.status(500).send({ err: "Failed to add orders" })
@@ -41,8 +43,10 @@ export async function updateStatus(req, res) {
         // console.log('req.params:', req.params.id)
         const gigId = req.params.id
         const status = req.body.value
-        console.log('status:', status)
         const updatedOrder = await orderService.updateStatus(gigId, status)
+        if(updatedOrder){
+            socketService.emitTo({type: 'edit-order', data:updatedOrder})
+        }
         res.json(updatedOrder)
     } catch (err) {
         logger.error("Failed to update order status", err)

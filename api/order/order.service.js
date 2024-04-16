@@ -52,9 +52,11 @@ export async function add(order) {
 }
 
 export async function updateStatus(orderId, newStatus) {
+    console.log('newStatus:',newStatus )
     try {
         const collection = await dbService.getCollection('orders')
-        const updatedOrder = await collection.findOneAndUpdate({ _id: new ObjectId(orderId) }, { $set: { status: newStatus } })
+        const updatedOrder = await collection.findOneAndUpdate({ _id: new ObjectId(orderId) }, { $set: { status: newStatus } }, { returnDocument: 'after' })
+        console.log('updatedOrder:', updatedOrder)
         return updatedOrder
     } catch (err) {
         logger.error('Cannot update Order status', err)
