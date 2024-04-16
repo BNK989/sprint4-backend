@@ -1,3 +1,6 @@
 node_modules
 bnk-note.txt
-backend.log
+*.log
+*logs
+logs/
+logs

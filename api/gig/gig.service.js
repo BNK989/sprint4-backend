@@ -6,38 +6,38 @@ const { ObjectId } = mongodb
 
 // const PAGE_SIZE = 3
 
-async function query(filterBy = { txt: '', category: '', price: 0 , deliveryTime: 0, sellerLevel: null, userId: '' }, sortBy = 'recommended') {
-    console.log('from service:', filterBy, sortBy)
+async function query(filterBy = { txt: '', category: '', price: 0 , daysToMake: 0, sellerLevel: null, userId: '' }, sortBy = 'recommended') {
+    // console.log('from service:', filterBy, sortBy)
     try {
         const criteria = {}
-        // if (filterBy.txt) {
-        //     criteria.$or = [
-        //         { title: { $regex: filterBy.txt, $options: 'i' } },
-        //         { description: { $regex: filterBy.txt, $options: 'i' } }
-        //     ]
-        // }
+        // console.log('filterBy:', filterBy)
+        if (filterBy.userId) {
+            criteria['owner._id'] = filterBy.userId
+        }
+        if (filterBy.txt) {
+            criteria.$or = [
+                { title: { $regex: filterBy.txt, $options: 'i' } },
+                { 'packages.basic.description': { $regex: filterBy.txt, $options: 'i' } }
+            ]
+        }
 
-        // if (filterBy.category) {
-        //     criteria.tags = filterBy.category
-        // }
+        if (filterBy.category) {
+            criteria.category = filterBy.category
+        }
 
-        // if (filterBy.minPrice !== '') {
-        //     criteria.price = { $gte: +filterBy.minPrice }
-        // }
+        if (filterBy.price) {
+            criteria['packages.basic.price'] = { $lte: +filterBy.price }
+        }
 
-        // if (filterBy.maxPrice !== Infinity) {
-        //     criteria.price = { ...criteria.price, $lte: +filterBy.maxPrice }
-        // }
-
-        // if (filterBy.deliveryTime !== Infinity) {
-        //     criteria.daysToMake = { $lte: +filterBy.deliveryTime }
-        // }
+        if (filterBy.daysToMake) {
+            criteria['packages.basic.daysToMake'] = { $lte: +filterBy.daysToMake }
+        }
 
         // if (filterBy.sellerLevel) {
         //     criteria['owner.rate'] = { $gte: +filterBy.sellerLevel }
         // }
 
-        console.log('criteria from service:', criteria)
+        // console.log('criteria from service:', criteria)
 
         const collection = await dbService.getCollection('gigs')
         const gigs = await collection.find(criteria).toArray()

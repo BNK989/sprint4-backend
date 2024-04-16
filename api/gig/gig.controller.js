@@ -5,10 +5,10 @@ import { userService } from '../user/user.service.js'
 export async function getGigs(req, res) {
     try {
         logger.debug('Getting Gigs:', req.query)
-        console.log('req.query.params:', req.query)
-        const filterBy = req.query
+        // console.log('req.body:', req.body)
+        const filterBy = req.body
 
-        console.log('filter by from controller', filterBy);
+        // console.log('filter by from controller', filterBy);
         // const sortBy = req.query.sortBy || 'recommended'
         const gigs = await gigService.query(filterBy)
         res.json(gigs)
