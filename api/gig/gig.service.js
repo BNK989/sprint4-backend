@@ -6,18 +6,18 @@ const { ObjectId } = mongodb
 
 // const PAGE_SIZE = 3
 
-async function query(filterBy = { txt: '', category: '', price: 0 , daysToMake: 0, sellerLevel: null, userId: '' }, sortBy = 'recommended') {
+async function query(filterBy = { title: '', category: '', price: 0 , daysToMake: 0, sellerLevel: null, userId: '' }, sortBy = 'recommended') {
     // console.log('from service:', filterBy, sortBy)
     try {
         const criteria = {}
-        // console.log('filterBy:', filterBy)
+        console.log('filterBy:', filterBy)
         if (filterBy.userId) {
             criteria['owner._id'] = filterBy.userId
         }
-        if (filterBy.txt) {
+        if (filterBy.title) {
             criteria.$or = [
-                { title: { $regex: filterBy.txt, $options: 'i' } },
-                { 'packages.basic.description': { $regex: filterBy.txt, $options: 'i' } }
+                { title: { $regex: filterBy.title, $options: 'i' } },
+                { 'packages.basic.description': { $regex: filterBy.title, $options: 'i' } }
             ]
         }
 
@@ -25,11 +25,11 @@ async function query(filterBy = { txt: '', category: '', price: 0 , daysToMake: 
             criteria.category = filterBy.category
         }
 
-        if (filterBy.price) {
+        if (+filterBy.price) {
             criteria['packages.basic.price'] = { $lte: +filterBy.price }
         }
 
-        if (filterBy.daysToMake) {
+        if (+filterBy.daysToMake) {
             criteria['packages.basic.daysToMake'] = { $lte: +filterBy.daysToMake }
         }
 
@@ -37,7 +37,7 @@ async function query(filterBy = { txt: '', category: '', price: 0 , daysToMake: 
         //     criteria['owner.rate'] = { $gte: +filterBy.sellerLevel }
         // }
 
-        // console.log('criteria from service:', criteria)
+        console.log('criteria from service:', criteria)
 
         const collection = await dbService.getCollection('gigs')
         const gigs = await collection.find(criteria).toArray()
