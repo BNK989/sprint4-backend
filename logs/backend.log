@@ -554,3 +554,10 @@
 16.4.2024, 9:18:39 - INFO - Server is running on port: 3030 
 16.4.2024, 9:18:41 - INFO - Server is running on port: 3030 
 16.4.2024, 9:18:43 - INFO - Server is running on port: 3030 
+15.4.2024, 19:22:59 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+15.4.2024, 19:22:59 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+15.4.2024, 19:22:59 - DEBUG - Getting Gigs: | {"userId":"FHc6T"} 
+15.4.2024, 19:23:00 - ERROR - while finding user by id: FHc6T | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:23:00 - ERROR - Failed to get user | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+15.4.2024, 19:26:11 - INFO - Server is running on port: 3030 
+15.4.2024, 19:26:12 - INFO - Server is running on port: 3030 
