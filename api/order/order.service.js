@@ -9,11 +9,13 @@ export async function sellerQuery() {
     try {
         const { loggedinUser } = asyncLocalStorage.getStore()
         const id = loggedinUser._id
-
+        console.log('id:', id)
+        
         const OrdersCollection = await dbService.getCollection('orders')
         // console.log('collection:', OrdersCollection)
         const orders = await OrdersCollection.find({"seller._id": id}).toArray()
-
+        
+        console.log('ordersservice:', orders)
         return orders
     } catch (err) {
         logger.error('Cannot get seller`s Orders ', err)

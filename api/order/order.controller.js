@@ -15,6 +15,7 @@ export async function getOrdersById(req, res) {
             orders = await orderService.sellerQuery()
             console.log('getting seller')
         }
+        console.log('orders234234:', orders)
         res.json(orders)
     } catch (err) {
         logger.error("Failed to get orders", err)
@@ -26,7 +27,9 @@ export async function addOrder(req, res) {
     const { loggedinUser } = asyncLocalStorage.getStore()
     try {
         const order = req.body
+        console.log('order:',order )
         const addedOrder = await orderService.add(order)
+        console.log('addedOrder:', addedOrder)
         if (addedOrder){
             socketService.emitTo({type: 'add-order', data:addedOrder})
         }

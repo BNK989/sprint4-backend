@@ -4,3 +4,6 @@ bnk-note.txt
 *logs
 logs/
 logs
+backend.log
+backend.log
+logs/backend.log
