@@ -10,9 +10,9 @@ async function query(filterBy = { title: '', category: '', price: 0 , daysToMake
     // console.log('from service:', filterBy, sortBy)
     try {
         const criteria = {}
-        console.log('filterBy:', filterBy)
+        // console.log('filterBy:', filterBy)
         if (filterBy.userId) {
-            criteria['owner._id'] = filterBy.userId
+            criteria['owner._id'] = new ObjectId(filterBy.userId)
         }
         if (filterBy.title) {
             criteria.$or = [
@@ -37,7 +37,7 @@ async function query(filterBy = { title: '', category: '', price: 0 , daysToMake
         //     criteria['owner.rate'] = { $gte: +filterBy.sellerLevel }
         // }
 
-        console.log('criteria from service:', criteria)
+        // console.log('criteria from service:', criteria)
 
         const collection = await dbService.getCollection('gigs')
         const gigs = await collection.find(criteria).toArray()

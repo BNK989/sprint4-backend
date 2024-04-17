@@ -659,3 +659,112 @@
 16.4.2024, 17:11:57 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
 16.4.2024, 17:11:57 - DEBUG - Getting Gigs: | {"userId":"661cc2573356f2ac97fd2ad0"} (userId: 661cc2573356f2ac97fd2ad0)
 16.4.2024, 17:11:57 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 8:36:16 - INFO - Server is running on port: 3030 
+17.4.2024, 8:36:19 - INFO - New connected socket [id: nWHzw0OIELIjPe3ZAAAB] 
+17.4.2024, 8:36:34 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:36:36 - INFO - New connected socket [id: amfwVq7v7UkrGCsrAAAD] 
+17.4.2024, 8:36:36 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: amfwVq7v7UkrGCsrAAAD] 
+17.4.2024, 8:36:36 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:36:36 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:38:20 - INFO - Server is running on port: 3030 
+17.4.2024, 8:38:21 - INFO - Server is running on port: 3030 
+17.4.2024, 8:38:21 - INFO - New connected socket [id: So1xJUBlD4ivMJbnAAAB] 
+17.4.2024, 8:38:25 - INFO - Server is running on port: 3030 
+17.4.2024, 8:38:26 - INFO - New connected socket [id: -glAxbIOKl6vQOb5AAAB] 
+17.4.2024, 8:38:28 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:38:29 - INFO - New connected socket [id: I1pVgS-29_5cbh85AAAD] 
+17.4.2024, 8:38:30 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: I1pVgS-29_5cbh85AAAD] 
+17.4.2024, 8:38:30 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:38:30 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:38:30 - ERROR - cannot find gigs | TypeError: Class constructor ObjectId cannot be invoked without 'new' (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:38:30 - ERROR - Failed to get gigs | TypeError: Class constructor ObjectId cannot be invoked without 'new' (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:38:51 - INFO - Server is running on port: 3030 
+17.4.2024, 8:38:51 - INFO - New connected socket [id: Z-4Bpsr0GF1jUHfwAAAB] 
+17.4.2024, 8:38:58 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:38:59 - INFO - New connected socket [id: a8w6KadEVaZUHH3vAAAD] 
+17.4.2024, 8:39:00 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: a8w6KadEVaZUHH3vAAAD] 
+17.4.2024, 8:39:00 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:39:00 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:40:13 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:40:53 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:41:09 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:42:03 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:42:53 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:43:36 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:43:37 - INFO - New connected socket [id: 062l0gjcqAHLTRZZAAAF] 
+17.4.2024, 8:43:37 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: 062l0gjcqAHLTRZZAAAF] 
+17.4.2024, 8:43:38 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:43:38 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:44:39 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:48:23 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:48:45 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:49:20 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:50:16 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:52:46 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:52:54 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:53:03 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:53:46 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 8:54:14 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:54:15 - INFO - New connected socket [id: w4rFoa5vnOz3RwL8AAAH] 
+17.4.2024, 8:54:15 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: w4rFoa5vnOz3RwL8AAAH] 
+17.4.2024, 8:54:16 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:54:16 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:54:41 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:54:41 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:54:42 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:54:49 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:54:49 - DEBUG - Getting Gigs: | {"price":"232","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:54:54 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:54:54 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:55:51 - INFO - Removing socket.userId for socket [id: w4rFoa5vnOz3RwL8AAAH] 
+17.4.2024, 8:55:51 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 8:55:55 - DEBUG - auth.service - login with username: Jonny35 
+17.4.2024, 8:55:55 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"John F Kennedy","username":"Jonny35","ordersCount":1,"from":"Massachusetts","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"} 
+17.4.2024, 8:55:55 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: w4rFoa5vnOz3RwL8AAAH] 
+17.4.2024, 8:56:00 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 8:56:01 - DEBUG - Getting Gigs: | {"userId":"661cc2573356f2ac97fd2ad0"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 8:56:19 - INFO - Removing socket.userId for socket [id: w4rFoa5vnOz3RwL8AAAH] 
+17.4.2024, 8:56:19 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 8:56:24 - DEBUG - auth.service - login with username: bnk989 
+17.4.2024, 8:56:24 - INFO - User login:  | {"_id":"661f55e8c92e2439450e2bf4","username":"bnk989","fullname":"Ben Klinovsky","imgUrl":"https://res.cloudinary.com/dqwoykxjx/image/upload/v1713329637/yl6fc6aaaaqvugvri3ti.png"} 
+17.4.2024, 8:56:24 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: w4rFoa5vnOz3RwL8AAAH] 
+17.4.2024, 8:56:28 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 8:56:28 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:07:08 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:13:26 - INFO - New connected socket [id: iUd0u3H53f4gacZrAAAJ] 
+17.4.2024, 9:13:39 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:13:42 - INFO - New connected socket [id: paa4rAhHBs9hudZ-AAAL] 
+17.4.2024, 9:13:43 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: paa4rAhHBs9hudZ-AAAL] 
+17.4.2024, 9:13:44 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:13:44 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:13:49 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:13:51 - INFO - New connected socket [id: dmJv_1yiWLmQoNReAAAN] 
+17.4.2024, 9:13:52 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:13:52 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: dmJv_1yiWLmQoNReAAAN] 
+17.4.2024, 9:13:52 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:14:20 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:14:21 - INFO - New connected socket [id: X9hbJIl_eZE2UgtUAAAP] 
+17.4.2024, 9:14:22 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: X9hbJIl_eZE2UgtUAAAP] 
+17.4.2024, 9:14:22 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:14:22 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:14:48 - DEBUG - Getting Gigs: | {} 
+17.4.2024, 9:16:14 - DEBUG - Getting Gigs: | {"owner._id":"661f55e8c92e2439450e2bf4"} 
+17.4.2024, 9:16:31 - DEBUG - Getting Gigs: | {"owner._id":"661f55e8c92e2439450e2bf4"} 
+17.4.2024, 9:16:51 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} 
+17.4.2024, 9:19:25 - INFO - Server is running on port: 3030 
+17.4.2024, 9:19:26 - INFO - New connected socket [id: NJv_FyskX8MxiCARAAAB] 
+17.4.2024, 9:19:32 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} 
+17.4.2024, 9:19:45 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:19:46 - INFO - New connected socket [id: mMsFBSOWziV6SRXBAAAD] 
+17.4.2024, 9:19:46 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: mMsFBSOWziV6SRXBAAAD] 
+17.4.2024, 9:19:47 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:19:47 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:20:36 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:20:37 - INFO - New connected socket [id: qhb92fpd88Sov5KNAAAF] 
+17.4.2024, 9:20:38 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: qhb92fpd88Sov5KNAAAF] 
+17.4.2024, 9:20:38 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:20:38 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:20:47 - INFO - Server is running on port: 3030 
+17.4.2024, 9:20:48 - INFO - New connected socket [id: P3J3l7SL41OvGcG9AAAB] 
+17.4.2024, 9:20:54 - INFO - Server is running on port: 3030 
+17.4.2024, 9:20:55 - INFO - New connected socket [id: NG8jV2E8Nbm6qs-EAAAB] 
