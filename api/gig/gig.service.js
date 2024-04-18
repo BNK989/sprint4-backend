@@ -40,7 +40,8 @@ async function query(filterBy = { title: '', category: '', price: 0 , daysToMake
         // console.log('criteria from service:', criteria)
 
         const collection = await dbService.getCollection('gigs')
-        const gigs = await collection.find(criteria).toArray()
+        const gigs = await collection.find(criteria).sort({ 'owner.rate': -1 }).toArray()
+        //.sort((gig1, gig2) => (gig1.owner.rate - gig2.owner.rate) * -1)
         // if (sortBy === 'recommended') {
         //     gigs.sort((gig1, gig2) => {
         //         const gig1ReviewsAvg = utilService.getAvgRating(gig1.reviews)

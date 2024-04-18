@@ -768,3 +768,906 @@
 17.4.2024, 9:20:48 - INFO - New connected socket [id: P3J3l7SL41OvGcG9AAAB] 
 17.4.2024, 9:20:54 - INFO - Server is running on port: 3030 
 17.4.2024, 9:20:55 - INFO - New connected socket [id: NG8jV2E8Nbm6qs-EAAAB] 
+17.4.2024, 9:27:57 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:27:57 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Graphics - Design"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:27:59 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Graphics - Design"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:28:06 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:28:06 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Wordpress"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:28:08 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:28:08 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:31:03 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:31:04 - INFO - New connected socket [id: oeRksMSrG5cfhXdbAAAD] 
+17.4.2024, 9:31:05 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: oeRksMSrG5cfhXdbAAAD] 
+17.4.2024, 9:31:05 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:33:32 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:33:33 - INFO - New connected socket [id: MPCtpj1iYjrKLq3VAAAF] 
+17.4.2024, 9:33:34 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: MPCtpj1iYjrKLq3VAAAF] 
+17.4.2024, 9:33:34 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:34:04 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:34:03 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:34:04 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:34:12 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:35:17 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:35:17 - INFO - New connected socket [id: ZC9VA9akzgOjnhmkAAAH] 
+17.4.2024, 9:35:18 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:35:18 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: ZC9VA9akzgOjnhmkAAAH] 
+17.4.2024, 9:39:01 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:39:08 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:39:16 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:39:20 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:39:32 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:39:33 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:39:35 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:39:47 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:39:49 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:39:52 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:40:06 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:40:10 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:40:13 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:40:29 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:40:33 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:41:32 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:41:49 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:42:28 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:42:29 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:42:55 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:43:07 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:43:09 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:43:15 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:43:18 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:43:19 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:49:13 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:49:14 - INFO - New connected socket [id: HiTy32kPDcMtIVgnAAAJ] 
+17.4.2024, 9:49:14 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: HiTy32kPDcMtIVgnAAAJ] 
+17.4.2024, 9:49:15 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:49:15 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:49:54 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:50:04 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:50:07 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:50:09 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:50:15 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:50:19 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:50:21 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:50:28 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:50:41 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:51:05 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:51:06 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:51:14 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:51:35 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:52:12 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:52:18 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:52:22 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:52:40 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:52:43 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:53:09 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:53:12 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:53:14 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:53:27 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:55:47 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:55:50 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:55:51 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:55:54 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:55:58 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:56:05 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:56:07 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:56:08 - INFO - New connected socket [id: 5iPTHkFyJN56pdpwAAAL] 
+17.4.2024, 9:56:08 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: 5iPTHkFyJN56pdpwAAAL] 
+17.4.2024, 9:56:08 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:56:08 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:56:56 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:57:01 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:57:03 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 9:57:03 - INFO - Removing socket.userId for socket [id: 5iPTHkFyJN56pdpwAAAL] 
+17.4.2024, 9:57:07 - DEBUG - auth.service - login with username: Jonny35 
+17.4.2024, 9:57:07 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"John F Kennedy","username":"Jonny35","ordersCount":1,"from":"Massachusetts","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"} 
+17.4.2024, 9:57:07 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: 5iPTHkFyJN56pdpwAAAL] 
+17.4.2024, 9:57:11 - INFO - Removing socket.userId for socket [id: 5iPTHkFyJN56pdpwAAAL] 
+17.4.2024, 9:57:11 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 9:57:15 - DEBUG - auth.service - login with username: Jonny35 
+17.4.2024, 9:57:15 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"John F Kennedy","username":"Jonny35","ordersCount":1,"from":"Massachusetts","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"} 
+17.4.2024, 9:57:15 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: 5iPTHkFyJN56pdpwAAAL] 
+17.4.2024, 10:03:26 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:03:26 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:03:27 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:04:38 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:04:38 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:15:08 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 10:15:11 - INFO - New connected socket [id: shzgdOqP2sGDESCoAAAN] 
+17.4.2024, 10:15:13 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: shzgdOqP2sGDESCoAAAN] 
+17.4.2024, 10:15:13 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:15:14 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:15:15 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:40:53 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 10:40:56 - INFO - New connected socket [id: TuK2gp7h204uVHocAAAP] 
+17.4.2024, 10:40:57 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: TuK2gp7h204uVHocAAAP] 
+17.4.2024, 10:40:59 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:41:00 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:41:02 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:46:23 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 10:46:27 - INFO - New connected socket [id: USMnt73JRclXSo3-AAAR] 
+17.4.2024, 10:46:28 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: USMnt73JRclXSo3-AAAR] 
+17.4.2024, 10:46:30 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:46:31 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:46:31 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:49:23 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 10:49:28 - INFO - New connected socket [id: enlaHmVYEqWvFJD5AAAT] 
+17.4.2024, 10:49:29 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: enlaHmVYEqWvFJD5AAAT] 
+17.4.2024, 10:49:30 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:49:31 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:49:32 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:52:17 - DEBUG - Getting Gigs: | {"userId":"661cc2573356f2ac97fd2ad0"} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:52:17 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:59:01 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+17.4.2024, 10:59:07 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 10:59:07 - INFO - Removing socket.userId for socket [id: enlaHmVYEqWvFJD5AAAT] 
+17.4.2024, 11:37:37 - DEBUG - auth.service - login with username: Jonny35 
+17.4.2024, 11:37:38 - INFO - User login:  | {"_id":"661cc2723356f2ac97fd2ad2","fullname":"John F Kennedy","username":"Jonny35","ordersCount":5,"from":"California","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/330px-Richard_Nixon_presidential_portrait_%281%29.jpg"} 
+17.4.2024, 11:37:38 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: enlaHmVYEqWvFJD5AAAT] 
+17.4.2024, 11:37:44 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 11:37:44 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 11:43:04 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:43:07 - INFO - New connected socket [id: EafSB6AX1nopt_IDAAAV] 
+17.4.2024, 11:43:07 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: EafSB6AX1nopt_IDAAAV] 
+17.4.2024, 11:43:08 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 11:43:09 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 11:43:24 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 11:43:25 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 11:43:43 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:43:45 - INFO - New connected socket [id: MlHYCmYGQMZ2lqPCAAAX] 
+17.4.2024, 11:43:47 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: MlHYCmYGQMZ2lqPCAAAX] 
+17.4.2024, 11:43:47 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 11:43:48 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 11:58:42 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 11:58:44 - INFO - New connected socket [id: vot7kVopkskhrdIeAAAZ] 
+17.4.2024, 11:58:45 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: vot7kVopkskhrdIeAAAZ] 
+17.4.2024, 11:58:46 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 11:58:47 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:00:17 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:00:20 - INFO - New connected socket [id: 06K7YK7YuoWsPcxIAAAb] 
+17.4.2024, 12:00:21 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 06K7YK7YuoWsPcxIAAAb] 
+17.4.2024, 12:00:21 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:00:22 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:04:02 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:04:05 - INFO - New connected socket [id: GUe_sgzHMA1wFNw9AAAd] 
+17.4.2024, 12:04:06 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: GUe_sgzHMA1wFNw9AAAd] 
+17.4.2024, 12:04:07 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:04:07 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:10:40 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:10:42 - INFO - New connected socket [id: Mb9ZMe6az9KdaNgJAAAf] 
+17.4.2024, 12:10:42 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: Mb9ZMe6az9KdaNgJAAAf] 
+17.4.2024, 12:10:43 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:10:44 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:11:18 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:11:19 - INFO - New connected socket [id: WBX4MC0uN05dTT6yAAAh] 
+17.4.2024, 12:11:20 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: WBX4MC0uN05dTT6yAAAh] 
+17.4.2024, 12:11:20 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:11:21 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:14:37 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:14:39 - INFO - New connected socket [id: vit6dK0YRUhDWb5XAAAj] 
+17.4.2024, 12:14:40 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: vit6dK0YRUhDWb5XAAAj] 
+17.4.2024, 12:14:41 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:14:41 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:23:27 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:23:29 - INFO - New connected socket [id: rhWPUjYvGPrLkZTLAAAl] 
+17.4.2024, 12:23:29 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: rhWPUjYvGPrLkZTLAAAl] 
+17.4.2024, 12:23:30 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:23:30 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:25:58 - INFO - New connected socket [id: zwIVaRqpnDolvr3gAAAn] 
+17.4.2024, 12:26:01 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:26:01 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: zwIVaRqpnDolvr3gAAAn] 
+17.4.2024, 12:26:02 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:28:47 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:28:47 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:28:55 - INFO - New connected socket [id: F2uFBVmmN4fI1p0kAAAp] 
+17.4.2024, 12:28:57 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: F2uFBVmmN4fI1p0kAAAp] 
+17.4.2024, 12:28:58 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:28:58 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:29:47 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:30:06 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:30:14 - INFO - New connected socket [id: T-bmpcaisWD7yUzCAAAr] 
+17.4.2024, 12:30:15 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: T-bmpcaisWD7yUzCAAAr] 
+17.4.2024, 12:30:17 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:30:17 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:30:40 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:34:03 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:34:07 - INFO - New connected socket [id: EPne5V1_Jq9U_rQ5AAAt] 
+17.4.2024, 12:34:08 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: EPne5V1_Jq9U_rQ5AAAt] 
+17.4.2024, 12:34:10 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:34:10 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:34:14 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:34:46 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:34:47 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Wordpress"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:34:47 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Wordpress"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:34:48 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 12:34:51 - INFO - New connected socket [id: u3lNSRty4Qrt_PBRAAAv] 
+17.4.2024, 12:34:54 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 12:34:54 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: u3lNSRty4Qrt_PBRAAAv] 
+17.4.2024, 12:34:59 - INFO - Removing socket.userId for socket [id: u3lNSRty4Qrt_PBRAAAv] 
+17.4.2024, 12:34:59 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:19:11 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"website design"} 
+17.4.2024, 13:19:11 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:19:11 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"website design"} 
+17.4.2024, 13:19:13 - INFO - New connected socket [id: 3H4UNwGaXrvL7JhnAAAx] 
+17.4.2024, 13:19:14 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:19:14 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:19:14 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:19:14 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} 
+17.4.2024, 13:19:15 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} 
+17.4.2024, 13:19:32 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:19:35 - INFO - New connected socket [id: fx2V0fKNA0okAR7UAAAz] 
+17.4.2024, 13:19:35 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:19:35 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:19:35 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:19:35 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} 
+17.4.2024, 13:19:35 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} 
+17.4.2024, 13:21:17 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:17 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:21:17 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:19 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:19 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:19 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:21:25 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:25 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:25 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:21:25 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:25 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:26 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:21:27 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:27 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:27 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:21:28 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:28 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:28 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:21:28 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:28 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:28 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:21:34 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 13:21:35 - INFO - New connected socket [id: 0O85Bzh7KTUS_genAAA1] 
+17.4.2024, 13:21:35 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:35 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 13:21:35 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:21:38 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 13:21:38 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} 
+17.4.2024, 13:21:38 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} 
+17.4.2024, 13:39:32 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 15:01:58 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 15:40:14 - DEBUG - auth.service - login with username: bnk989 
+17.4.2024, 15:40:14 - INFO - User login:  | {"_id":"661f55e8c92e2439450e2bf4","username":"bnk989","fullname":"Ben Klinovsky","imgUrl":"https://res.cloudinary.com/dqwoykxjx/image/upload/v1713329637/yl6fc6aaaaqvugvri3ti.png"} 
+17.4.2024, 15:40:14 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: 0O85Bzh7KTUS_genAAA1] 
+17.4.2024, 15:40:18 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:40:18 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:40:20 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:40:21 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:41:45 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:41:49 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:42:56 - INFO - Removing socket.userId for socket [id: 0O85Bzh7KTUS_genAAA1] 
+17.4.2024, 15:42:56 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 15:54:10 - ERROR - Cannot get buyer`s Orders  | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 15:54:10 - ERROR - Failed to get orders | TypeError: Cannot read properties of undefined (reading '_id') 
+17.4.2024, 15:54:10 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+17.4.2024, 15:55:58 - DEBUG - auth.service - login with username: bnk989 
+17.4.2024, 15:55:59 - INFO - User login:  | {"_id":"661f55e8c92e2439450e2bf4","username":"bnk989","fullname":"Ben Klinovsky","imgUrl":"https://res.cloudinary.com/dqwoykxjx/image/upload/v1713329637/yl6fc6aaaaqvugvri3ti.png"} 
+17.4.2024, 15:55:59 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: 0O85Bzh7KTUS_genAAA1] 
+17.4.2024, 15:56:04 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:56:04 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:56:06 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:56:06 - ERROR - while finding gig undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:56:06 - ERROR - Failed to get gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 15:56:07 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:00:49 - ERROR - while finding gig undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:00:49 - ERROR - Failed to get gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:00:49 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:00:50 - ERROR - while finding gig undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:00:50 - ERROR - Failed to get gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:00:51 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:01:22 - ERROR - while finding gig undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:01:22 - ERROR - Failed to get gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:01:22 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:04:02 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:04:02 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:04:10 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:04:10 - DEBUG - Getting Gigs: | {"title":"test","price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:04:10 - DEBUG - Getting Gigs: | {"title":"test","price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:07:20 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:07:20 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:07:22 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:07:22 - ERROR - while finding gig undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:07:22 - ERROR - Failed to get gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:07:23 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:07:49 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:07:49 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:10:52 - ERROR - while finding gig undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:10:52 - ERROR - Failed to get gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:10:52 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:10:53 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:11:26 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:11:26 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:14:10 - ERROR - while finding gig undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:14:10 - ERROR - Failed to get gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:14:11 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:14:11 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:14:34 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:14:34 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:17:01 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 16:17:03 - INFO - New connected socket [id: vJNGkPf8vnONjTCEAAA3] 
+17.4.2024, 16:17:04 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: vJNGkPf8vnONjTCEAAA3] 
+17.4.2024, 16:17:16 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 16:17:17 - INFO - New connected socket [id: LMw6diJrAY_B-_KyAAA5] 
+17.4.2024, 16:17:17 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: LMw6diJrAY_B-_KyAAA5] 
+17.4.2024, 16:17:17 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:17:20 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:17:20 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:17:22 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:17:22 - ERROR - while finding gig undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:17:22 - ERROR - Failed to get gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:17:22 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:17:55 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:17:55 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:19:31 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 16:19:32 - INFO - New connected socket [id: RJSdHMWkD4EA5O8cAAA7] 
+17.4.2024, 16:19:33 - INFO - Setting socket.userId = 661f55e8c92e2439450e2bf4 for socket [id: RJSdHMWkD4EA5O8cAAA7] 
+17.4.2024, 16:19:33 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:19:37 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:19:37 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:19:38 - ERROR - while finding gig undefined | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:19:38 - ERROR - Failed to get gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:19:38 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:19:39 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:20:02 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:20:02 - DEBUG - Getting Gigs: | {"userId":"661f55e8c92e2439450e2bf4"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:20:19 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:20:19 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:20:20 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:20:26 - DEBUG - Getting Gigs: | {"title":"419","price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:20:26 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:20:28 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:22:40 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 16:27:16 - INFO - New connected socket [id: -d0lKyg2SAQBmT21AAA9] 
+17.4.2024, 16:27:18 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:27:18 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:27:19 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:27:25 - DEBUG - auth.service - login with username: Jonny35 (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:27:26 - INFO - User login:  | {"_id":"661cc2723356f2ac97fd2ad2","fullname":"John F Kennedy","username":"Jonny35","ordersCount":5,"from":"California","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/330px-Richard_Nixon_presidential_portrait_%281%29.jpg"} (userId: 661f55e8c92e2439450e2bf4)
+17.4.2024, 16:27:26 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: -d0lKyg2SAQBmT21AAA9] 
+17.4.2024, 16:27:33 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 16:27:34 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 16:27:47 - INFO - New connected socket [id: 4tJXzHc7CzOWda9PAAA_] 
+17.4.2024, 16:27:48 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 4tJXzHc7CzOWda9PAAA_] 
+17.4.2024, 16:27:48 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 16:27:49 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 16:47:46 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 16:47:49 - INFO - New connected socket [id: M3HmOaxaEPDzwnDyAABB] 
+17.4.2024, 16:47:50 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: M3HmOaxaEPDzwnDyAABB] 
+17.4.2024, 16:47:51 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 17:00:08 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 17:00:08 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 17:00:10 - INFO - New connected socket [id: fB4l0PPTo-JE_9bpAABD] 
+17.4.2024, 17:00:11 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: fB4l0PPTo-JE_9bpAABD] 
+17.4.2024, 17:00:11 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 17:00:13 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 17:00:14 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 17:00:14 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 17:00:18 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 17:04:54 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 17:04:57 - INFO - New connected socket [id: yO12vm-1zmhwbLnKAABF] 
+17.4.2024, 17:04:58 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: yO12vm-1zmhwbLnKAABF] 
+17.4.2024, 17:04:58 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 17:12:48 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 17:12:52 - INFO - New connected socket [id: lvHx0c6dR0SsG8brAABH] 
+17.4.2024, 17:12:54 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: lvHx0c6dR0SsG8brAABH] 
+17.4.2024, 17:12:56 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 17:35:35 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 17:35:37 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:35:49 - INFO - Server is running on port: 3030 
+17.4.2024, 18:35:50 - INFO - New connected socket [id: fQO87OzFs1d5jM3IAAAB] 
+17.4.2024, 18:35:52 - INFO - New connected socket [id: 5uNevYtgw5Ct1iXVAAAD] 
+17.4.2024, 18:35:54 - INFO - New connected socket [id: 7wRJgRMOGzsvr6gAAAAF] 
+17.4.2024, 18:37:45 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:37:48 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:38:11 - INFO - New connected socket [id: _TyFVcrJtPtV4-L4AAAH] 
+17.4.2024, 18:38:12 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:38:19 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:38:21 - INFO - New connected socket [id: cN_5_-q5S6RgzoufAAAJ] 
+17.4.2024, 18:38:23 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:40:29 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:41:26 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:41:30 - INFO - New connected socket [id: bk6YN60qmDRiFGXLAAAL] 
+17.4.2024, 18:41:32 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:44:27 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:44:31 - INFO - New connected socket [id: PVEnuLi-eJnbXFvVAAAN] 
+17.4.2024, 18:44:34 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:47:43 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:47:46 - INFO - New connected socket [id: wQRryxMpV2QdnyYZAAAP] 
+17.4.2024, 18:47:49 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:47:56 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:48:00 - INFO - New connected socket [id: voOQqoGTqbU5SQ2cAAAR] 
+17.4.2024, 18:48:02 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:51:51 - DEBUG - auth.service - login with username: Jonny35 (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:51:52 - INFO - User login:  | {"_id":"661cc2723356f2ac97fd2ad2","fullname":"John F Kennedy","username":"Jonny35","ordersCount":5,"from":"California","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/330px-Richard_Nixon_presidential_portrait_%281%29.jpg"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:51:52 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: voOQqoGTqbU5SQ2cAAAR] 
+17.4.2024, 18:56:55 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:57:33 - INFO - New connected socket [id: EuwVT9CchQSv6YTlAAAT] 
+17.4.2024, 18:57:35 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 18:57:35 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: EuwVT9CchQSv6YTlAAAT] 
+17.4.2024, 18:58:25 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 18:58:45 - INFO - New connected socket [id: BAZA5Ot3eCM9OC0jAAAV] 
+17.4.2024, 18:58:46 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: BAZA5Ot3eCM9OC0jAAAV] 
+17.4.2024, 18:58:46 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:00:31 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:00:49 - INFO - New connected socket [id: XMWupTF2_ZZ27y6FAAAX] 
+17.4.2024, 19:00:51 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: XMWupTF2_ZZ27y6FAAAX] 
+17.4.2024, 19:00:51 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:01:02 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:01:10 - INFO - New connected socket [id: 29Sa_Ftj2WNVUm5PAAAZ] 
+17.4.2024, 19:01:11 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 29Sa_Ftj2WNVUm5PAAAZ] 
+17.4.2024, 19:01:12 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:02:26 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:03:16 - INFO - New connected socket [id: YdfekPavs-6FcyH1AAAb] 
+17.4.2024, 19:03:19 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:03:19 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: YdfekPavs-6FcyH1AAAb] 
+17.4.2024, 19:03:37 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:03:43 - INFO - New connected socket [id: NlcAiPLCl2COCJ89AAAd] 
+17.4.2024, 19:03:45 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:03:45 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: NlcAiPLCl2COCJ89AAAd] 
+17.4.2024, 19:04:01 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:04:08 - INFO - New connected socket [id: IGN0Q7PSfYqih07VAAAf] 
+17.4.2024, 19:04:10 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:04:11 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: IGN0Q7PSfYqih07VAAAf] 
+17.4.2024, 19:04:13 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:04:25 - INFO - New connected socket [id: seEjvG-SREPjXfjRAAAh] 
+17.4.2024, 19:04:27 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: seEjvG-SREPjXfjRAAAh] 
+17.4.2024, 19:04:27 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:05:50 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:05:53 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:05:54 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:05:58 - INFO - New connected socket [id: DFbJKpHGgy6qrVaGAAAj] 
+17.4.2024, 19:06:01 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:06:01 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: DFbJKpHGgy6qrVaGAAAj] 
+17.4.2024, 19:07:23 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:07:24 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:12:01 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:12:04 - INFO - New connected socket [id: 0RfFoOb0QX_ag-_hAAAl] 
+17.4.2024, 19:12:07 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:12:07 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 0RfFoOb0QX_ag-_hAAAl] 
+17.4.2024, 19:12:07 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:16:58 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:16:59 - INFO - New connected socket [id: --PMmsuOlg5B_rXJAAAn] 
+17.4.2024, 19:16:59 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:16:59 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: --PMmsuOlg5B_rXJAAAn] 
+17.4.2024, 19:16:59 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:17:56 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:18:02 - INFO - New connected socket [id: V2LveYOMlvBztblsAAAp] 
+17.4.2024, 19:18:03 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: V2LveYOMlvBztblsAAAp] 
+17.4.2024, 19:18:03 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:18:03 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:18:09 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:18:11 - INFO - New connected socket [id: WyjtyGVbRyhGNfOOAAAr] 
+17.4.2024, 19:18:11 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: WyjtyGVbRyhGNfOOAAAr] 
+17.4.2024, 19:18:11 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:18:11 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:18:18 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:18:20 - INFO - New connected socket [id: qF2PUC8IvM3TI3xWAAAt] 
+17.4.2024, 19:18:21 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: qF2PUC8IvM3TI3xWAAAt] 
+17.4.2024, 19:18:21 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:18:22 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:18:31 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:18:33 - INFO - New connected socket [id: JvQHrJvpPl6rpJQvAAAv] 
+17.4.2024, 19:18:34 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: JvQHrJvpPl6rpJQvAAAv] 
+17.4.2024, 19:18:35 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:18:35 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:18:38 - INFO - New connected socket [id: bEe61HBnvuE0_auBAAAx] 
+17.4.2024, 19:18:39 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: bEe61HBnvuE0_auBAAAx] 
+17.4.2024, 19:18:39 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:18:39 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:19:18 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:21:50 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:21:51 - INFO - New connected socket [id: ALwk2HVTTRxSTCGaAAAz] 
+17.4.2024, 19:21:51 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: ALwk2HVTTRxSTCGaAAAz] 
+17.4.2024, 19:21:52 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:21:52 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:23:07 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:23:08 - INFO - New connected socket [id: 97YzPOWhJg9d64Z2AAA1] 
+17.4.2024, 19:23:08 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 97YzPOWhJg9d64Z2AAA1] 
+17.4.2024, 19:23:09 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:23:09 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:24:57 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:24:59 - INFO - New connected socket [id: 48qaWV-IfBxtkUhoAAA3] 
+17.4.2024, 19:25:00 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 48qaWV-IfBxtkUhoAAA3] 
+17.4.2024, 19:25:00 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:25:00 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:25:13 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:25:15 - INFO - New connected socket [id: DV2Q9wGDxix_rsYkAAA5] 
+17.4.2024, 19:25:15 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: DV2Q9wGDxix_rsYkAAA5] 
+17.4.2024, 19:25:15 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:25:15 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:25:21 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:25:24 - INFO - New connected socket [id: ALgcixJrzE21pOQHAAA7] 
+17.4.2024, 19:25:25 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: ALgcixJrzE21pOQHAAA7] 
+17.4.2024, 19:25:25 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:25:26 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:25:28 - INFO - New connected socket [id: RpM6iprn9QJGq4eGAAA9] 
+17.4.2024, 19:25:28 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: RpM6iprn9QJGq4eGAAA9] 
+17.4.2024, 19:25:29 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:25:30 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:25:33 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:25:36 - INFO - New connected socket [id: 9f1vRTTFrpaRO6XHAAA_] 
+17.4.2024, 19:25:37 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 9f1vRTTFrpaRO6XHAAA_] 
+17.4.2024, 19:25:38 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:25:38 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:26:09 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:29:11 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:29:12 - INFO - New connected socket [id: RxE2vsT2yfZm0PIjAABB] 
+17.4.2024, 19:29:13 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: RxE2vsT2yfZm0PIjAABB] 
+17.4.2024, 19:29:13 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:29:14 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:30:16 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:30:17 - INFO - New connected socket [id: RXWChs7RrlCOvexBAABD] 
+17.4.2024, 19:30:17 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: RXWChs7RrlCOvexBAABD] 
+17.4.2024, 19:30:17 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:30:17 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 19:40:49 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 19:40:49 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 21:04:20 - INFO - New connected socket [id: NXLFXwqeXLhJn94RAABF] 
+17.4.2024, 21:04:23 - INFO - New connected socket [id: iu6Ah3lBOGKwMRaxAABH] 
+17.4.2024, 21:05:08 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 21:05:08 - INFO - New connected socket [id: -Ehm-QUHY8BSf6AsAABJ] 
+17.4.2024, 21:05:09 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: -Ehm-QUHY8BSf6AsAABJ] 
+17.4.2024, 21:05:09 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 21:05:09 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 21:07:24 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 21:07:25 - INFO - New connected socket [id: KljaZbvpbhs2HKBNAABL] 
+17.4.2024, 21:07:25 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: KljaZbvpbhs2HKBNAABL] 
+17.4.2024, 21:07:25 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 21:07:25 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 21:07:44 - INFO - New connected socket [id: 8SaZprjNKPfwTA7FAABN] 
+17.4.2024, 21:07:44 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 21:07:44 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 8SaZprjNKPfwTA7FAABN] 
+17.4.2024, 21:07:44 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 21:10:32 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 21:10:32 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 21:10:33 - INFO - New connected socket [id: -7B8Tg2o5tDGO7w8AABP] 
+17.4.2024, 21:10:33 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: -7B8Tg2o5tDGO7w8AABP] 
+17.4.2024, 21:10:34 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 21:10:34 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+17.4.2024, 21:22:11 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 21:22:11 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 8:43:02 - INFO - New connected socket [id: OzjYRA9coOZrH62KAABS] 
+18.4.2024, 8:43:03 - INFO - New connected socket [id: WSNAyHUqV1SLZWxoAABT] 
+18.4.2024, 8:45:03 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 8:45:04 - INFO - New connected socket [id: Y1NCwSN80J8I-1LkAABV] 
+18.4.2024, 8:45:05 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: Y1NCwSN80J8I-1LkAABV] 
+18.4.2024, 8:45:06 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 8:45:06 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 8:45:08 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 8:47:35 - INFO - New connected socket [id: rcs1j2i7wyvM1w2SAABX] 
+18.4.2024, 8:47:36 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 8:47:36 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 8:47:36 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 8:47:41 - DEBUG - auth.service - login with username: Nix37 (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 8:47:41 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"Richard Nixon","username":"Nix37","ordersCount":1,"from":"Massachusetts","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 8:47:41 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: rcs1j2i7wyvM1w2SAABX] 
+18.4.2024, 8:47:54 - INFO - Removing socket.userId for socket [id: rcs1j2i7wyvM1w2SAABX] 
+18.4.2024, 8:47:54 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+18.4.2024, 8:47:59 - DEBUG - auth.service - login with username: Nix37 
+18.4.2024, 8:47:59 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"Richard Nixon","username":"Nix37","ordersCount":1,"from":"Massachusetts","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"} 
+18.4.2024, 8:47:59 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: rcs1j2i7wyvM1w2SAABX] 
+18.4.2024, 8:48:08 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+18.4.2024, 8:48:09 - DEBUG - Getting Gigs: | {"userId":"661cc2573356f2ac97fd2ad0"} (userId: 661cc2573356f2ac97fd2ad0)
+18.4.2024, 8:48:42 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 8:49:03 - INFO - Removing socket.userId for socket [id: rcs1j2i7wyvM1w2SAABX] 
+18.4.2024, 8:49:03 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} 
+18.4.2024, 8:49:12 - DEBUG - auth.service - login with username: Nix37 
+18.4.2024, 8:49:13 - INFO - User login:  | {"_id":"661cc2573356f2ac97fd2ad0","fullname":"Richard Nixon","username":"Nix37","ordersCount":1,"from":"Massachusetts","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"} 
+18.4.2024, 8:49:13 - INFO - Setting socket.userId = 661cc2573356f2ac97fd2ad0 for socket [id: rcs1j2i7wyvM1w2SAABX] 
+18.4.2024, 8:49:17 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+18.4.2024, 8:49:17 - DEBUG - Getting Gigs: | {"userId":"661cc2573356f2ac97fd2ad0"} (userId: 661cc2573356f2ac97fd2ad0)
+18.4.2024, 8:49:23 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+18.4.2024, 8:49:26 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2573356f2ac97fd2ad0)
+18.4.2024, 8:49:26 - INFO - Removing socket.userId for socket [id: rcs1j2i7wyvM1w2SAABX] 
+18.4.2024, 8:49:31 - DEBUG - auth.service - login with username: Jonny35 
+18.4.2024, 8:49:31 - INFO - User login:  | {"_id":"661cc2723356f2ac97fd2ad2","fullname":"John F Kennedy","username":"Jonny35","ordersCount":5,"from":"California","Membersince":"Apr 2023","imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/330px-Richard_Nixon_presidential_portrait_%281%29.jpg"} 
+18.4.2024, 8:49:31 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: rcs1j2i7wyvM1w2SAABX] 
+18.4.2024, 8:49:37 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 8:49:37 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 9:25:47 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 9:25:48 - INFO - New connected socket [id: cd14q29GdVo6IXWHAABZ] 
+18.4.2024, 9:25:48 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: cd14q29GdVo6IXWHAABZ] 
+18.4.2024, 9:25:48 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 9:25:48 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:10:41 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:10:45 - INFO - New connected socket [id: 6xhdkhKMrx4ek2XtAABb] 
+18.4.2024, 10:10:46 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 6xhdkhKMrx4ek2XtAABb] 
+18.4.2024, 10:10:46 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:10:46 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:15:14 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:15:18 - INFO - New connected socket [id: KBUpiPilOxgZLo5KAABd] 
+18.4.2024, 10:15:20 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: KBUpiPilOxgZLo5KAABd] 
+18.4.2024, 10:15:20 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:15:20 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:15:32 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:15:33 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:15:38 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:15:40 - INFO - New connected socket [id: BfrGd1Syeaqd7gftAABf] 
+18.4.2024, 10:15:42 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: BfrGd1Syeaqd7gftAABf] 
+18.4.2024, 10:15:42 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:16:01 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:16:09 - INFO - New connected socket [id: dbpXzCIHkVZ3ysTWAABh] 
+18.4.2024, 10:16:09 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: dbpXzCIHkVZ3ysTWAABh] 
+18.4.2024, 10:16:10 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:16:29 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:16:30 - DEBUG - Getting Gigs: | {"userId":"661cc2723356f2ac97fd2ad2"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:24:25 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:24:26 - INFO - New connected socket [id: 7oVT8305PSAbC9elAABj] 
+18.4.2024, 10:24:27 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 7oVT8305PSAbC9elAABj] 
+18.4.2024, 10:24:28 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:24:30 - INFO - New connected socket [id: tw7gTHu5C8cZkDuQAABl] 
+18.4.2024, 10:24:32 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:24:32 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: tw7gTHu5C8cZkDuQAABl] 
+18.4.2024, 10:45:05 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:45:05 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:45:07 - INFO - New connected socket [id: Mg1mOcjBLEKoi1IaAABn] 
+18.4.2024, 10:45:08 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: Mg1mOcjBLEKoi1IaAABn] 
+18.4.2024, 10:45:08 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:48:54 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:48:56 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:48:58 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:49:10 - INFO - New connected socket [id: Hwmuj-N1zfHUl285AABp] 
+18.4.2024, 10:49:11 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: Hwmuj-N1zfHUl285AABp] 
+18.4.2024, 10:49:12 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:49:13 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:49:14 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:53:37 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:53:37 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:53:40 - INFO - New connected socket [id: GERtxwcGXVxP5hXYAABr] 
+18.4.2024, 10:53:42 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: GERtxwcGXVxP5hXYAABr] 
+18.4.2024, 10:53:43 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:53:44 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:53:45 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:54:37 - INFO - New connected socket [id: uaLaDWz5kNxFQli0AABt] 
+18.4.2024, 10:54:39 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:54:40 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:54:41 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: uaLaDWz5kNxFQli0AABt] 
+18.4.2024, 10:54:41 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:54:44 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:54:44 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:54:46 - INFO - New connected socket [id: SWBuH4oRE3oU1uONAABv] 
+18.4.2024, 10:54:48 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: SWBuH4oRE3oU1uONAABv] 
+18.4.2024, 10:54:49 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:54:49 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:54:50 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:55:06 - INFO - New connected socket [id: oyGAxVmRBGJxEJZBAABx] 
+18.4.2024, 10:55:09 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:55:11 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:55:11 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: oyGAxVmRBGJxEJZBAABx] 
+18.4.2024, 10:55:11 - INFO - New connected socket [id: QtRKCT-KXTK6Wi7ZAABz] 
+18.4.2024, 10:55:11 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:55:11 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 10:55:13 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:55:14 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:55:14 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: QtRKCT-KXTK6Wi7ZAABz] 
+18.4.2024, 10:55:16 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:55:44 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:56:06 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:56:07 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 10:56:08 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:18:29 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:18:31 - INFO - New connected socket [id: iZV1Q47uoApSizf9AAB1] 
+18.4.2024, 12:18:32 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: iZV1Q47uoApSizf9AAB1] 
+18.4.2024, 12:18:33 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:24:59 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:25:02 - INFO - New connected socket [id: T24DpFbXOBTCHPlVAAB3] 
+18.4.2024, 12:25:04 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:25:04 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: T24DpFbXOBTCHPlVAAB3] 
+18.4.2024, 12:25:28 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:25:31 - INFO - New connected socket [id: X4Y4Tt2AvF5hbCMrAAB5] 
+18.4.2024, 12:25:33 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:25:33 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: X4Y4Tt2AvF5hbCMrAAB5] 
+18.4.2024, 12:25:48 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:25:51 - INFO - New connected socket [id: r_vVCT76p8vjvShLAAB7] 
+18.4.2024, 12:25:52 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: r_vVCT76p8vjvShLAAB7] 
+18.4.2024, 12:25:52 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:26:45 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:26:49 - INFO - New connected socket [id: LAfbuwi-N4Qkk7z-AAB9] 
+18.4.2024, 12:26:51 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: LAfbuwi-N4Qkk7z-AAB9] 
+18.4.2024, 12:26:51 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:27:35 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:27:38 - INFO - New connected socket [id: UnC6Z9CI0yybgQhWAAB_] 
+18.4.2024, 12:27:40 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:27:40 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: UnC6Z9CI0yybgQhWAAB_] 
+18.4.2024, 12:30:24 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:30:28 - INFO - New connected socket [id: xkyce5Fksg5LW4RIAACB] 
+18.4.2024, 12:30:29 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: xkyce5Fksg5LW4RIAACB] 
+18.4.2024, 12:30:30 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:37:04 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:37:19 - INFO - New connected socket [id: QL7X53q02ZV_ldy0AACD] 
+18.4.2024, 12:37:20 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: QL7X53q02ZV_ldy0AACD] 
+18.4.2024, 12:37:20 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:40:04 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:40:07 - INFO - New connected socket [id: DBpvXeKQW2nCjBWGAACF] 
+18.4.2024, 12:40:08 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: DBpvXeKQW2nCjBWGAACF] 
+18.4.2024, 12:40:09 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:40:25 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:40:28 - INFO - New connected socket [id: rAJ9A6mhABR0gOt6AACH] 
+18.4.2024, 12:40:29 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: rAJ9A6mhABR0gOt6AACH] 
+18.4.2024, 12:40:30 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:41:12 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:41:15 - INFO - New connected socket [id: HEHMqeaJOklV7QrMAACJ] 
+18.4.2024, 12:41:16 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: HEHMqeaJOklV7QrMAACJ] 
+18.4.2024, 12:41:17 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:41:27 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:41:30 - INFO - New connected socket [id: lrMEc9mgZx3mQ7emAACL] 
+18.4.2024, 12:41:31 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: lrMEc9mgZx3mQ7emAACL] 
+18.4.2024, 12:41:32 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:42:27 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:42:30 - INFO - New connected socket [id: WPx7cyEAbPknKG3RAACN] 
+18.4.2024, 12:42:31 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: WPx7cyEAbPknKG3RAACN] 
+18.4.2024, 12:42:32 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:42:50 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:42:55 - INFO - New connected socket [id: -8sbYp4IhLC4D0S6AACP] 
+18.4.2024, 12:42:56 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: -8sbYp4IhLC4D0S6AACP] 
+18.4.2024, 12:42:57 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:43:31 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:43:34 - INFO - New connected socket [id: ZpcC1ygg0llupjKBAACR] 
+18.4.2024, 12:43:36 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:43:36 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: ZpcC1ygg0llupjKBAACR] 
+18.4.2024, 12:43:47 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:43:49 - INFO - New connected socket [id: vtcengXPOz6aE4RrAACT] 
+18.4.2024, 12:43:50 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: vtcengXPOz6aE4RrAACT] 
+18.4.2024, 12:43:51 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:46:14 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:46:17 - INFO - New connected socket [id: aC0cGjsMX4yI3teLAACV] 
+18.4.2024, 12:46:18 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: aC0cGjsMX4yI3teLAACV] 
+18.4.2024, 12:46:18 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:46:30 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:46:32 - INFO - New connected socket [id: miYK866UWiOlSqBdAACX] 
+18.4.2024, 12:46:33 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: miYK866UWiOlSqBdAACX] 
+18.4.2024, 12:46:34 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:47:04 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:47:07 - INFO - New connected socket [id: N8P_emgqCzcjM2ATAACZ] 
+18.4.2024, 12:47:08 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: N8P_emgqCzcjM2ATAACZ] 
+18.4.2024, 12:47:09 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:47:33 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:47:37 - INFO - New connected socket [id: jBhVZIhJbrmwccLLAACb] 
+18.4.2024, 12:47:38 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:47:38 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: jBhVZIhJbrmwccLLAACb] 
+18.4.2024, 12:48:04 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:48:13 - INFO - New connected socket [id: 7tW9zGcGxlatjqLkAACd] 
+18.4.2024, 12:48:14 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 7tW9zGcGxlatjqLkAACd] 
+18.4.2024, 12:48:14 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:48:22 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:54:07 - INFO - New connected socket [id: Lvbr6DGGoA7oU7wwAACf] 
+18.4.2024, 12:54:08 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:54:09 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:54:09 - INFO - New connected socket [id: tmx1B6GivFipoCGwAACh] 
+18.4.2024, 12:54:09 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: tmx1B6GivFipoCGwAACh] 
+18.4.2024, 12:54:28 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:54:31 - INFO - New connected socket [id: _Ca8uzXC7iyOkuCcAACj] 
+18.4.2024, 12:54:34 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:54:34 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: _Ca8uzXC7iyOkuCcAACj] 
+18.4.2024, 12:54:54 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:54:57 - INFO - New connected socket [id: 8ijRMWufUHotr1u1AACl] 
+18.4.2024, 12:55:00 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:55:00 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: 8ijRMWufUHotr1u1AACl] 
+18.4.2024, 12:56:55 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 12:56:59 - INFO - New connected socket [id: O4kSSUIf76bV-_B3AACn] 
+18.4.2024, 12:57:02 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 12:57:02 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: O4kSSUIf76bV-_B3AACn] 
+18.4.2024, 13:12:22 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 13:12:26 - INFO - New connected socket [id: CI6lgdHNhffKlEqwAACp] 
+18.4.2024, 13:12:29 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:12:29 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: CI6lgdHNhffKlEqwAACp] 
+18.4.2024, 13:12:58 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 13:13:03 - INFO - New connected socket [id: Dc2qBnFJa61J_2G5AACr] 
+18.4.2024, 13:13:05 - INFO - Setting socket.userId = 661cc2723356f2ac97fd2ad2 for socket [id: Dc2qBnFJa61J_2G5AACr] 
+18.4.2024, 13:13:06 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:45:13 - INFO - New connected socket [id: nItg6PZKK_1g6ZCvAACt] 
+18.4.2024, 13:45:16 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:45:18 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:45:18 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:45:19 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:45:25 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:45:25 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:45:29 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:55:45 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:55:46 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:55:46 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:55:51 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 13:55:52 - INFO - New connected socket [id: nfwDCx9ALIWM8m2lAACv] 
+18.4.2024, 13:55:53 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:55:53 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:55:54 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:57:55 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 13:57:57 - INFO - New connected socket [id: xrcJ_OoypNA6H_0iAACx] 
+18.4.2024, 13:57:58 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:57:59 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 13:57:59 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:01:47 - INFO - Server is running on port: 3030 
+18.4.2024, 14:01:47 - INFO - New connected socket [id: bGpD3Zg7aY2MG1uVAAAC] 
+18.4.2024, 14:01:47 - INFO - New connected socket [id: aEIh80p4G0dewOMPAAAD] 
+18.4.2024, 14:08:46 - INFO - Server is running on port: 3030 
+18.4.2024, 14:08:46 - INFO - New connected socket [id: gTl0M4LSCl9fMXs-AAAC] 
+18.4.2024, 14:08:46 - INFO - New connected socket [id: 7Fak0r_Ax0v8A0jvAAAD] 
+18.4.2024, 14:09:00 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:02 - ERROR - cannot find gigs | TypeError: Assignment to constant variable. (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:02 - ERROR - Failed to get gigs | TypeError: Assignment to constant variable. (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:03 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:09:05 - INFO - New connected socket [id: WR02cJRMOYk4TC66AAAF] 
+18.4.2024, 14:09:07 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:07 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:08 - ERROR - cannot find gigs | TypeError: Assignment to constant variable. (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:08 - ERROR - Failed to get gigs | TypeError: Assignment to constant variable. (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:08 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:08 - ERROR - cannot find gigs | TypeError: Assignment to constant variable. (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:08 - ERROR - Failed to get gigs | TypeError: Assignment to constant variable. (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:09 - ERROR - cannot find gigs | TypeError: Assignment to constant variable. (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:09:09 - ERROR - Failed to get gigs | TypeError: Assignment to constant variable. (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:10:41 - INFO - Server is running on port: 3030 
+18.4.2024, 14:10:41 - INFO - New connected socket [id: ysZ01tY-cpHH6UlSAAAB] 
+18.4.2024, 14:10:42 - INFO - New connected socket [id: NqQvcyxczqwr6EEsAAAD] 
+18.4.2024, 14:10:43 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:10:45 - INFO - New connected socket [id: B4bReJK9cxrN7hIRAAAF] 
+18.4.2024, 14:10:47 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:10:47 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:10:49 - ERROR - cannot find gigs | TypeError: collection.find(...).toArray(...).sort is not a function (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:10:49 - ERROR - Failed to get gigs | TypeError: collection.find(...).toArray(...).sort is not a function (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:10:49 - ERROR - Failed to get gigs | TypeError: collection.find(...).toArray(...).sort is not a function (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:10:49 - ERROR - cannot find gigs | TypeError: collection.find(...).toArray(...).sort is not a function (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:10:49 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:10:49 - ERROR - cannot find gigs | TypeError: collection.find(...).toArray(...).sort is not a function (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:10:49 - ERROR - Failed to get gigs | TypeError: collection.find(...).toArray(...).sort is not a function (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:11:36 - INFO - Server is running on port: 3030 
+18.4.2024, 14:11:37 - INFO - New connected socket [id: 9eqMOgpdBEP4NkuSAAAB] 
+18.4.2024, 14:11:39 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:11:39 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:11:40 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:11:40 - INFO - New connected socket [id: YLH4H1bYVB21vpe7AAAD] 
+18.4.2024, 14:11:42 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:11:44 - INFO - New connected socket [id: FzcKkGq1XSVo7pmVAAAF] 
+18.4.2024, 14:11:45 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:11:46 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:11:47 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:19:11 - INFO - Server is running on port: 3030 
+18.4.2024, 14:19:11 - INFO - New connected socket [id: VZ4GHkJjot79vtE5AAAC] 
+18.4.2024, 14:19:11 - INFO - New connected socket [id: KwsVWrVJITOnO6N6AAAD] 
+18.4.2024, 14:29:18 - INFO - Server is running on port: 3030 
+18.4.2024, 14:29:18 - INFO - New connected socket [id: LAn8I0kqfd4EdSFXAAAC] 
+18.4.2024, 14:29:18 - INFO - New connected socket [id: Fz44j10KWQTKbLcJAAAD] 
+18.4.2024, 14:29:24 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:29:27 - INFO - New connected socket [id: PebOMB5Cf4yuYBjPAAAF] 
+18.4.2024, 14:29:28 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:29:29 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:29:31 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:29:46 - INFO - Server is running on port: 3030 
+18.4.2024, 14:29:47 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:29:48 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:29:48 - INFO - New connected socket [id: zCTQaMSKeWTRqx0HAAAC] 
+18.4.2024, 14:29:48 - INFO - New connected socket [id: FBdCOichUO-u_ZF8AAAD] 
+18.4.2024, 14:29:50 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:30:17 - INFO - Server is running on port: 3030 
+18.4.2024, 14:30:17 - INFO - New connected socket [id: xXke3bVMwMwHeV2NAAAC] 
+18.4.2024, 14:30:17 - INFO - New connected socket [id: NQIbWESpF_7j2ePBAAAD] 
+18.4.2024, 14:35:14 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:35:16 - INFO - New connected socket [id: 9U1_ADJrDawJkoexAAAF] 
+18.4.2024, 14:35:17 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:35:18 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:35:20 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:35:49 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:35:51 - INFO - New connected socket [id: VJNhbPBlOIxb-vglAAAH] 
+18.4.2024, 14:35:52 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:35:53 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:35:53 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:36:15 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:36:16 - INFO - New connected socket [id: TyaEDEn_XjRPhyhQAAAJ] 
+18.4.2024, 14:36:17 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:36:18 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:36:19 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:36:58 - INFO - Socket disconnected [id: undefined] 
+18.4.2024, 14:37:00 - INFO - New connected socket [id: Cr9mGeH1TqjryJRPAAAL] 
+18.4.2024, 14:37:01 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:37:02 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:37:02 - DEBUG - Getting Gigs: | {"price":"0","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:37:47 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:37:48 - DEBUG - Getting Gigs: | {"price":"200","creteAT":"","daysToMake":"0","ownedGigs":"","category":"Website Design"} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:54:36 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:55:47 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
+18.4.2024, 14:55:57 - DEBUG - Getting Gigs: | {"txt":"","category":"","price":"0","userId":""} (userId: 661cc2723356f2ac97fd2ad2)
